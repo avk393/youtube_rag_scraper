@@ -1,0 +1,1294 @@
+{
+  "video_id": "rDd5zNQ4d-Y",
+  "title": "Volume Analysis: The Correct Way to Read & Understand the Market",
+  "duration": 785.0,
+  "events": [
+    {
+      "type": "visual",
+      "start": 0.0,
+      "end": 0.0,
+      "frame_id": 1,
+      "file": "frames/frame_0001.jpg",
+      "ocr": "What Do You Actually See?\nWhen you look at a price chart...",
+      "description": "A hand-drawn illustration shows a stick figure looking thoughtfully at a candlestick price chart. A large, orange question mark is superimposed over the center of the chart, representing confusion or the challenge of interpretation. The style is simple and sketch-like on a textured white background.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 0.16,
+      "end": 2.72,
+      "text": "Hello everyone! Let me ask you a question.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 2.72,
+      "end": 6.24,
+      "text": "When you look at a price chart,&nbsp; what do you actually see?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 6.24,
+      "end": 9.12,
+      "text": "Most traders see candles going up and down.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 9.12,
+      "end": 11.76,
+      "text": "They see patterns. They see lines.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 11.76,
+      "end": 16.8,
+      "text": "But they're missing the most important&nbsp; piece of information on the entire chart.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 16.8,
+      "end": 20.48,
+      "text": "Volume. Price is just the advertisement.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 20.48,
+      "end": 24.4,
+      "text": "Volume is the actual transaction. It's like judging a restaurant&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 24.4,
+      "end": 29.68,
+      "text": "only by its sign outside, without ever&nbsp; checking if there are any customers inside.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 29.68,
+      "end": 33.84,
+      "text": "In this video, I'm going to show&nbsp; you how to read volume correctly.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 33.84,
+      "end": 36.88,
+      "text": "Not just what volume is. But what it MEANS.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 36.88,
+      "end": 39.36,
+      "text": "Why it matters. And how to use it to see&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 39.36,
+      "end": 44.4,
+      "text": "what's really happening behind every move. After this video, every candle on your&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 44.4,
+      "end": 48.4,
+      "text": "chart will tell you a story. And volume will be the proof.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 48.4,
+      "end": 51.44,
+      "text": "Not financial advice. Just education.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 51.44,
+      "end": 54.48,
+      "text": "Let's get into it. Let's start with the basics.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 54.48,
+      "end": 60.08,
+      "text": "Every chart speaks two languages at the same time. Language number one: Price.&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 60.0,
+      "end": 60.0,
+      "frame_id": 2,
+      "file": "frames/frame_0002.jpg",
+      "ocr": "1\nPRICE\nLanguage #1: PRICE\nThe WHAT\nWHAT Happened?\nUp? Down? Sideways?\nNEWS",
+      "description": "A hand-drawn illustration features a stick figure on the left pointing upward. To its right, a candlestick chart shows a distinct upward trend, overlaid with a large green arrow pointing up and to the right. In the bottom right corner is a small icon of a newspaper, and the top left corner features the number 1 inside a circle.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 60.08,
+      "end": 63.28,
+      "text": "Price tells you WHAT happened. Did the market go up?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 63.28,
+      "end": 64.8,
+      "text": "Down? Sideways?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 64.8,
+      "end": 66.88,
+      "text": "That's the headline. The news title.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 66.88,
+      "end": 71.2,
+      "text": "Language number two: Volume. Volume tells you HOW MUCH&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 71.2,
+      "end": 75.52,
+      "text": "conviction was behind that move. How many traders participated?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 75.52,
+      "end": 78.88,
+      "text": "How much money actually moved there? That's the evidence.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 78.88,
+      "end": 81.76,
+      "text": "The proof. Think of it like an election.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 81.76,
+      "end": 87.84,
+      "text": "Price is the result — who won. But volume is the number of voters who showed up.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 87.84,
+      "end": 92.24,
+      "text": "If only 10 people voted, does&nbsp; the result really mean anything?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 92.24,
+      "end": 95.92,
+      "text": "But if 10 million people&nbsp; voted — that's a declaration.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 95.92,
+      "end": 100.24,
+      "text": "Same with the market. A big green candle on low volume?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 100.24,
+      "end": 104.24,
+      "text": "Suspicious. A big green candle on high volume?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 104.24,
+      "end": 106.64,
+      "text": "That's conviction. That's real.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 106.64,
+      "end": 112.24,
+      "text": "From now on, every time you look at a&nbsp; chart, don't just ask: \"Where did price go?\"&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 112.24,
+      "end": 118.24,
+      "text": "Also ask: \"How much money stood behind that move?\" Now here's the single most important idea&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 118.24,
+      "end": 121.92,
+      "text": "in this entire video. To read volume correctly,&nbsp;&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 120.0,
+      "end": 120.0,
+      "frame_id": 3,
+      "file": "frames/frame_0003.jpg",
+      "ocr": "ONE Mental Model\n1\nEFFORT vs RESULT",
+      "description": "A whiteboard-style illustration introduces a concept. The title \"ONE Mental Model\" is above a large blue number \"1\" inside a circle. Below this, the phrase \"EFFORT vs RESULT\" is enclosed in a box, with radiating lines emphasizing both the number and the phrase. A simple stick figure in the bottom-left corner points up enthusiastically towards the main concept.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 121.92,
+      "end": 125.6,
+      "text": "you only need ONE mental model. Just one.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 125.6,
+      "end": 129.12,
+      "text": "Effort versus Result. In the market:&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 129.12,
+      "end": 133.84,
+      "text": "Effort is volume — how much energy,&nbsp; how much money is being used.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 133.84,
+      "end": 137.6,
+      "text": "Result is the candle — how&nbsp; far price actually moved.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 137.6,
+      "end": 142.24,
+      "text": "Think of it like pushing a car up a hill. Your foot on the gas pedal is the effort.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 142.24,
+      "end": 147.28,
+      "text": "How far the car moves is the result. Case number one: You press the gas.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 147.28,
+      "end": 149.68,
+      "text": "The car moves easily. Big effort.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 149.68,
+      "end": 152.16,
+      "text": "Big result. Everything matches.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 152.16,
+      "end": 156.0,
+      "text": "On the chart, that's a big candle&nbsp; with high volume underneath.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 156.0,
+      "end": 158.48,
+      "text": "Lots of buyers. Lots of conviction.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 158.48,
+      "end": 162.56,
+      "text": "The move is real. Like a whole stadium standing up to cheer.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 162.56,
+      "end": 167.12,
+      "text": "That's genuine excitement. Case number two: You slam the gas pedal.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 167.12,
+      "end": 169.04,
+      "text": "The engine roars. Fuel is burning.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 169.04,
+      "end": 172.64,
+      "text": "But the car barely moves. There's something blocking the road.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 172.64,
+      "end": 176.88,
+      "text": "On the chart, that's a tiny candle&nbsp; with MASSIVE volume underneath.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 176.88,
+      "end": 179.92,
+      "text": "This is called Absorption. What's happening?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 179.92,
+      "end": 183.04,
+      "text": "Buyers are pushing hard, but&nbsp; there's an invisible wall.&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 180.0,
+      "end": 180.0,
+      "frame_id": 4,
+      "file": "frames/frame_0004.jpg",
+      "ocr": "ABSORPTION\nBig Effort • Small Result\nWarning Sign\nThe Invisible Wall\nWarning Sign",
+      "description": "The image presents a concept called \"Absorption\" using two diagrams. The left diagram shows a financial candlestick chart where high volume leads to small price increases, which is labeled a \"Warning Sign.\" The right diagram provides an analogy, depicting a large wave crashing against a dam labeled \"The Invisible Wall,\" also identified as a \"Warning Sign,\" to illustrate market resistance absorbing buying pressure.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 183.04,
+      "end": 189.2,
+      "text": "A large seller — smart money — is sitting&nbsp; there, quietly absorbing every single buy order.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 189.2,
+      "end": 191.44,
+      "text": "Think of a dam. The water keeps&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 191.44,
+      "end": 197.36,
+      "text": "pouring in, but the dam holds everything back. When the water runs out — when buyers exhaust&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 197.36,
+      "end": 203.92,
+      "text": "themselves — there's nobody left to push price up. And very often, price drops sharply.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 203.92,
+      "end": 210.64,
+      "text": "Case number three: You barely touch the gas. But the car keeps rolling uphill by itself.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 210.64,
+      "end": 213.92,
+      "text": "There's no resistance. The road is empty.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 213.92,
+      "end": 217.84,
+      "text": "On the chart, that's price&nbsp; moving up on LOW volume.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 217.84,
+      "end": 222.24,
+      "text": "This is called No Supply. It doesn't mean buyers are super strong.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 222.24,
+      "end": 225.84,
+      "text": "It means sellers are ABSENT. Nobody is selling.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 225.84,
+      "end": 230.48,
+      "text": "So the market doesn't need much effort to move. Like walking on an empty road.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 230.48,
+      "end": 234.8,
+      "text": "No one is blocking your path. Now here's your cheat sheet.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 234.8,
+      "end": 240.16,
+      "text": "The Volume Matrix. High volume plus big candle — healthy move.&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 240.0,
+      "end": 240.0,
+      "frame_id": 5,
+      "file": "frames/frame_0005.jpg",
+      "ocr": "VOLUME MATRIX\nYour Cheat Sheet\nHEALTHY\nBig + Big = Real\nABSORPTION\nBig + Small = Warning\nNO SUPPLY\nMove + Low = Absent",
+      "description": "A diagram titled \"Volume Matrix\" presents a cheat sheet with three illustrated panels. The \"Healthy\" panel shows large green price and volume candlesticks with a checkmark. The \"Absorption\" panel displays a small red price candle over a large orange volume bar with a warning icon. The \"No Supply\" panel features an upward-trending blue line graph over a small blue volume bar, accompanied by an information icon and a pointing stick figure.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 240.16,
+      "end": 245.2,
+      "text": "High volume plus small candle — absorption. Warning sign.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 245.2,
+      "end": 250.16,
+      "text": "Low volume plus price still&nbsp; moving — no supply or no demand.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 250.16,
+      "end": 253.52,
+      "text": "The other side is absent. Memorize these three combinations.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 253.52,
+      "end": 256.4,
+      "text": "They're the foundation of&nbsp; everything that comes next.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 256.4,
+      "end": 260.96,
+      "text": "Now let's apply Effort vs Result&nbsp; to specific candle patterns.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 260.96,
+      "end": 267.76,
+      "text": "This is Volume Spread Analysis — VSA. Three patterns every trader should recognize.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 267.76,
+      "end": 272.72,
+      "text": "Pattern one: Stopping Volume. Imagine price is crashing.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 272.72,
+      "end": 277.68,
+      "text": "Red candle after red candle. Everyone is panicking and selling.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 277.68,
+      "end": 283.52,
+      "text": "Then you see this: a tall red candle,&nbsp; the volume bar underneath is HUGE — the&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 283.52,
+      "end": 286.4,
+      "text": "biggest in weeks. But here's the thing.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 286.4,
+      "end": 292.24,
+      "text": "The candle doesn't close at the very bottom. It has a long wick below, and the close is&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 292.24,
+      "end": 294.4,
+      "text": "near the middle. What happened?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 294.4,
+      "end": 299.36,
+      "text": "Someone with deep pockets bought EVERYTHING&nbsp; the panicking sellers were throwing away.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 299.36,
+      "end": 303.44,
+      "text": "They didn't stop the crash with words. They stopped it with money.&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 300.0,
+      "end": 300.0,
+      "frame_id": 6,
+      "file": "frames/frame_0006.jpg",
+      "ocr": "PANIC SELLERS\nSTOPPED\nPOTENTIAL REVERSAL\nSmart Money Absorbing\nHigh Effort • Small Result\n= Reversal Zone\n$",
+      "description": "A cartoon diagram illustrates a financial market concept. A large red downward arrow, representing a price drop, is halted by a large blue money bag, symbolizing 'smart money' absorbing the selling pressure from 'panic sellers'. Panicked stick figures are shown running away from the downward arrow. Text labels indicate this is a 'Reversal Zone' and points to a 'POTENTIAL REVERSAL'.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 303.44,
+      "end": 305.92,
+      "text": "High effort. Small result.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 305.92,
+      "end": 310.96,
+      "text": "The price didn't go lower despite massive volume. That's absorption at the bottom.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 310.96,
+      "end": 316.16,
+      "text": "A potential reversal zone. Pattern two: Buying Climax.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 316.16,
+      "end": 319.92,
+      "text": "Now imagine the opposite. Price has been going up for weeks.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 319.92,
+      "end": 322.64,
+      "text": "News is great. Everyone is bullish.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 322.64,
+      "end": 326.24,
+      "text": "Retail traders are jumping in&nbsp; because they don't want to miss out.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 326.24,
+      "end": 331.04,
+      "text": "Then you see: a huge green candle. Volume is EXTREME — the&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 331.04,
+      "end": 337.2,
+      "text": "highest on the entire chart. To most traders, this looks like massive strength.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 337.2,
+      "end": 341.28,
+      "text": "But here's the plot twist. This is NOT strong buying.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 341.28,
+      "end": 347.36,
+      "text": "This is strong selling DISGUISED as buying. Smart money uses that wall of buy orders from&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 347.36,
+      "end": 353.52,
+      "text": "retail traders to unload their massive positions. They're selling INTO the demand, quietly,&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 353.52,
+      "end": 357.28,
+      "text": "without crashing the price. Like a vendor at a night market.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 357.28,
+      "end": 359.6,
+      "text": "The busiest moment? That's when they're&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 359.6,
+      "end": 364.16,
+      "text": "clearing out the last of their stock. The moment you FOMO in at the top?&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 360.0,
+      "end": 360.0,
+      "frame_id": 7,
+      "file": "frames/frame_0007.jpg",
+      "ocr": "PLOT TWIST\nNOT Buying - It's Selling DISGUISED\nSmart Money Exit",
+      "description": "A cartoon depicts a market stall where a vendor with a cunning expression hands out boxes to an eager crowd. To the right, a character labeled \"Smart Money Exit\" walks away with a briefcase and cash. The scene illustrates a concept where a buying frenzy among the general public is actually an opportunity for insiders to sell their holdings and take profits.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 364.16,
+      "end": 368.48,
+      "text": "That might be exactly when smart&nbsp; money is walking out the door.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 368.48,
+      "end": 374.0,
+      "text": "Pattern three: No Supply Test. After an uptrend, price pulls back a little.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 374.0,
+      "end": 376.96,
+      "text": "You're worried. \"Is this a correction?\"&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 376.96,
+      "end": 381.92,
+      "text": "Then you look at volume: a small&nbsp; red candle, and volume is VERY low.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 381.92,
+      "end": 385.6,
+      "text": "The market is asking a question:&nbsp; \"Does anyone want to sell here?\"&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 385.6,
+      "end": 391.28,
+      "text": "And low volume answers: \"No. Not really.\" That's a No Supply test.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 391.28,
+      "end": 395.36,
+      "text": "Sellers are absent. The uptrend is likely to continue.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 395.36,
+      "end": 400.0,
+      "text": "Like testing if the fire is hot. You put your hand near it — it's cool.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 400.0,
+      "end": 402.72,
+      "text": "Safe to move forward. Three patterns.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 402.72,
+      "end": 406.48,
+      "text": "One mental model. Effort versus Result.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 406.48,
+      "end": 411.28,
+      "text": "That's enough to read eighty percent of&nbsp; what volume is telling you on any chart.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 411.28,
+      "end": 415.92,
+      "text": "Now, before we go further, let me clear up&nbsp; the most common mistake in volume reading.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 415.92,
+      "end": 418.48,
+      "text": "And if you've been making&nbsp; this mistake, don't worry.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 418.48,
+      "end": 422.16,
+      "text": "Almost everyone does. The myth: \"Green volume bar means&nbsp;&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 420.0,
+      "end": 420.0,
+      "frame_id": 8,
+      "file": "frames/frame_0008.jpg",
+      "ocr": "THE MYTH\nGreen = Buying?\nWRONG\nRed = Selling?",
+      "description": "A hand-drawn style illustration debunks a common belief about market indicators. On the left, a green bar is labeled \"Green = Buying?\", and on the right, a red bar is labeled \"Red = Selling?\". A large red 'X' is drawn over both bars with the word \"WRONG\" in the center, indicating this belief is false. A confused stick figure with a question mark over its head stands below, reinforcing the theme of questioning this myth.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 422.16,
+      "end": 427.2,
+      "text": "buying. Red volume bar means selling.\" That is NOT how it works.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 427.2,
+      "end": 431.92,
+      "text": "Here's the truth. Every single trade requires a buyer AND a seller.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 431.92,
+      "end": 433.68,
+      "text": "Always. Without exception.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 433.68,
+      "end": 438.08,
+      "text": "If you bought 100 shares, someone&nbsp; else SOLD you those 100 shares.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 438.08,
+      "end": 442.32,
+      "text": "Volume counts the NUMBER of transactions. Not which \"side\" is winning.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 442.32,
+      "end": 446.16,
+      "text": "The color of the volume bar? It simply follows the color of the candle.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 446.16,
+      "end": 449.44,
+      "text": "If the candle closed higher&nbsp; than it opened — green bar.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 449.44,
+      "end": 452.4,
+      "text": "If it closed lower — red bar. That's it.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 452.4,
+      "end": 455.52,
+      "text": "It has nothing to do with who&nbsp; is buying or who is selling.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 455.52,
+      "end": 458.08,
+      "text": "Think of a busy fish market&nbsp; at five in the morning.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 458.08,
+      "end": 462.16,
+      "text": "The market is packed — high volume. But there are buyers AND sellers everywhere.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 462.16,
+      "end": 465.6,
+      "text": "You can't say \"today is all buying\"&nbsp; just because the market is busy.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 465.6,
+      "end": 468.24,
+      "text": "Busy means activity. To know who is WINNING,&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 468.24,
+      "end": 471.68,
+      "text": "you look at where the candle closes. So here's the rule:&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 471.68,
+      "end": 476.64,
+      "text": "Don't look at the COLOR of the volume bar. Look at the SIZE of the volume bar, combined&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 476.64,
+      "end": 480.8,
+      "text": "with where the candle closes. Size plus close position.&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 480.0,
+      "end": 480.0,
+      "frame_id": 9,
+      "file": "frames/frame_0009.jpg",
+      "ocr": "THE RULE\nDon't → Color X\nDO → Size + Close ✓\nSize\n← Close\nSIZE + CLOSE = The Real Story",
+      "description": "A hand-drawn diagram contrasts two approaches to financial chart analysis. On the left, under the heading \"Don't → Color\", two colored volume bars are crossed out with a large red X. On the right, under \"DO → Size + Close\", a large volume bar is labeled \"Size\" next to two candlestick charts, with an arrow pointing to the closing price labeled \"Close\". A stick figure gives a thumbs-up next to a box at the bottom summarizing the main point: \"SIZE + CLOSE = The Real Story\".",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 480.8,
+      "end": 485.04,
+      "text": "That's where the real story is. Now let's talk about one of the most powerful&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 485.04,
+      "end": 489.2,
+      "text": "warning signals in volume analysis. Volume Divergence.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 489.2,
+      "end": 493.28,
+      "text": "When price and volume agree with&nbsp; each other, the trend is healthy.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 493.28,
+      "end": 496.4,
+      "text": "Price going up? Volume going up?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 496.4,
+      "end": 499.28,
+      "text": "Strong. Price going down?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 499.28,
+      "end": 502.8,
+      "text": "Volume going down? The selling is weakening.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 502.8,
+      "end": 507.28,
+      "text": "But when price and volume DISAGREE&nbsp; — that's your early warning system.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 507.28,
+      "end": 512.56,
+      "text": "Here's the most important one. Imagine price is making new highs.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 512.56,
+      "end": 516.56,
+      "text": "The chart looks great. Everyone is celebrating.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 516.56,
+      "end": 520.16,
+      "text": "But if you look at the volume&nbsp; bars, they're getting SMALLER.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 520.16,
+      "end": 524.08,
+      "text": "Each new high has LESS&nbsp; volume than the previous one.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 524.08,
+      "end": 527.92,
+      "text": "Think of a rocket. At launch, the fuel is full.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 527.92,
+      "end": 534.24,
+      "text": "The rocket blasts off with enormous power. But as the fuel burns, the thrust weakens.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 534.24,
+      "end": 538.72,
+      "text": "The rocket slows down. And eventually... it falls.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 538.72,
+      "end": 541.84,
+      "text": "That's what declining volume&nbsp; during an uptrend looks like.&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 540.0,
+      "end": 540.0,
+      "frame_id": 10,
+      "file": "frames/frame_0010.jpg",
+      "ocr": "DIVERGENCE = WARNING\nPrice ↑\nVolume ↓\nHigher Highs • Lower Volume\nFULL\nLOW\nEMPTY\nFuel Depleting = Crash Coming\nMove Running Out of Fuel",
+      "description": "A hand-drawn infographic explains bearish divergence in trading. The left side displays a candlestick price chart making higher highs, while the corresponding volume chart below shows declining volume, indicating a warning. The right side uses a metaphor of a rocket running out of fuel to represent this weakening trend, showing three stages: a rocket ascending with a full tank, a sputtering rocket with a low tank, and a crashing rocket with an empty tank.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 541.84,
+      "end": 546.8,
+      "text": "The move is running out of fuel. Fewer and fewer traders believe in the move.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 546.8,
+      "end": 551.12,
+      "text": "The same works in reverse. If price is falling but volume keeps&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 551.12,
+      "end": 557.12,
+      "text": "dropping too — sellers are getting exhausted. Each drop has less and less participation.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 557.12,
+      "end": 561.76,
+      "text": "The selling is drying up. That often signals a bottom is forming.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 561.76,
+      "end": 565.2,
+      "text": "Volume divergence is your&nbsp; free early warning system.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 565.2,
+      "end": 568.4,
+      "text": "The market hasn't crashed yet. But it's getting tired.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 568.4,
+      "end": 571.92,
+      "text": "It's like the applause getting&nbsp; quieter after each speech.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 571.92,
+      "end": 576.24,
+      "text": "The audience is losing interest. The show is almost over.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 576.24,
+      "end": 581.68,
+      "text": "When you see price making new highs but&nbsp; volume making lower highs — pay attention.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 581.68,
+      "end": 585.04,
+      "text": "Something is about to change. Now let's turn everything into&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 585.04,
+      "end": 590.16,
+      "text": "a simple process you can use on any&nbsp; chart, any market, starting today.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 590.16,
+      "end": 595.2,
+      "text": "I call it the 3-Step Volume Check. Step one: Zoom Out.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 595.2,
+      "end": 600.32,
+      "text": "Before you look at individual candles,&nbsp; zoom out to the daily or weekly chart.&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 600.0,
+      "end": 600.0,
+      "frame_id": 11,
+      "file": "frames/frame_0011.jpg",
+      "ocr": "1 STEP 1: Zoom Out\nVolume Trend?\nOverall Trend?\nCheck Weather = Check Climate\nKnow the Big Picture First",
+      "description": "The slide is titled \"STEP 1: Zoom Out.\" It displays a candlestick chart with a corresponding volume chart below, both indicating an overall upward trend. A magnifying glass with a minus sign is positioned over the chart, and to the right, a stick figure points to an analogy comparing checking the weather to checking the climate, represented by a sun and a cloud.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 600.32,
+      "end": 604.24,
+      "text": "Ask yourself: Is volume overall&nbsp; increasing or decreasing?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 604.24,
+      "end": 607.52,
+      "text": "Are there any unusual volume spikes recently?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 607.52,
+      "end": 610.64,
+      "text": "Think of it like checking the&nbsp; weather before going outside.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 610.64,
+      "end": 614.0,
+      "text": "You want to know the climate&nbsp; before you worry about the rain.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 614.0,
+      "end": 619.04,
+      "text": "Step two: Zoom In to Key Levels. Find the important support and&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 619.04,
+      "end": 623.28,
+      "text": "resistance levels on your chart. Now watch what happens when price&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 623.28,
+      "end": 627.28,
+      "text": "approaches those levels. Apply Effort vs Result.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 627.28,
+      "end": 632.88,
+      "text": "If price touches resistance and volume SPIKES&nbsp; but the candle stays small — that's absorption.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 632.88,
+      "end": 635.04,
+      "text": "The wall is holding. Be careful.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 635.04,
+      "end": 640.88,
+      "text": "If price breaks through resistance with a big&nbsp; candle AND high volume — that's a real breakout.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 640.88,
+      "end": 643.52,
+      "text": "Effort matches result. But if price breaks&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 643.52,
+      "end": 650.64,
+      "text": "resistance on LOW volume — be suspicious. A breakout without conviction is often a trap.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 650.64,
+      "end": 656.0,
+      "text": "Step three: Wait for Confirmation. This is where most traders go wrong.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 656.0,
+      "end": 661.04,
+      "text": "They see one signal and immediately jump in. Don't do that.&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 660.0,
+      "end": 660.0,
+      "frame_id": 12,
+      "file": "frames/frame_0012.jpg",
+      "ocr": "3 STEP 3: Wait for Confirmation\nResistance (becomes Support)\nBreakout\nWait... Pullback?\nConfirmed ✓\nLow Volume = No Supply\nBreakout → Wait → Test → Confirmed\n1 Candle Patience = 10 Trades Saved\nPATIENCE",
+      "description": "A hand-drawn infographic explains a stock trading concept using a candlestick chart. The chart shows a price breaking above a resistance line, followed by a small pullback which tests the old resistance line as new support. A meditating stick figure labeled \"PATIENCE\" sits next to the chart, emphasizing the importance of waiting for this confirmation before trading.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 661.04,
+      "end": 666.64,
+      "text": "After a breakout, wait for the next candle. Does price pull back to the broken level?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 666.64,
+      "end": 672.0,
+      "text": "If it does, and that pullback happens&nbsp; on LOW volume — that's a No Supply test.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 672.0,
+      "end": 676.8,
+      "text": "The market tested the level and found no sellers. That's your confirmation.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 676.8,
+      "end": 680.96,
+      "text": "Patience for one extra candle can&nbsp; save you from ten losing trades.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 680.96,
+      "end": 685.44,
+      "text": "Let me show you how this looks in practice. Price is approaching resistance.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 685.44,
+      "end": 690.24,
+      "text": "You zoom out — volume has been steady. Price touches resistance.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 690.24,
+      "end": 694.72,
+      "text": "Volume spikes. But the candle is small with a long upper wick.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 694.72,
+      "end": 697.84,
+      "text": "High effort, small result. Absorption.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 697.84,
+      "end": 700.56,
+      "text": "The wall is strong. You don't buy.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 700.56,
+      "end": 702.64,
+      "text": "You wait. Price drops.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 702.64,
+      "end": 705.36,
+      "text": "You avoided a trap. Three steps.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 705.36,
+      "end": 708.16,
+      "text": "Zoom out. Zoom in to key levels.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 708.16,
+      "end": 711.6,
+      "text": "Wait for confirmation. That's your volume playbook.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 711.6,
+      "end": 715.36,
+      "text": "Before your next trade, run&nbsp; through this quick checklist.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 715.36,
+      "end": 720.16,
+      "text": "One: Is volume increasing or&nbsp; decreasing compared to recent bars?&nbsp;"
+    },
+    {
+      "type": "visual",
+      "start": 720.0,
+      "end": 720.0,
+      "frame_id": 13,
+      "file": "frames/frame_0013.jpg",
+      "ocr": "5 Questions to Ask\n1. Volume trend? (↑ or ↓ vs recent)\n2. Effort = Result? (Absorption?)\nAbsorption if mismatch\n3. Spikes at key levels?\n4. Divergence? (New highs + lower vol)\nLower highs = warning\n5. Next candle confirms?\nNever act on 1 candle",
+      "description": "A hand-drawn illustration on a white background presents a checklist titled \"5 Questions to Ask\". The five questions are listed with numbered bullet points and checkboxes. To the right of the list stands a simple stick figure. Key terms within the list are visually emphasized with an orange circle, a yellow underline, and a blue box.",
+      "has_text": true
+    },
+    {
+      "type": "speech",
+      "start": 720.16,
+      "end": 726.16,
+      "text": "Two: Does the effort match the result? Big volume should mean big candles — if not,&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 726.16,
+      "end": 729.44,
+      "text": "someone is absorbing. Three: Are there any&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 729.44,
+      "end": 735.68,
+      "text": "unusual volume spikes near key levels? Four: Is volume diverging from price?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 735.68,
+      "end": 740.96,
+      "text": "New highs on lower volume is a warning. Five: What does the next candle confirm?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 740.96,
+      "end": 744.96,
+      "text": "Never act on one candle alone. When you ask these five questions,&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 744.96,
+      "end": 747.52,
+      "text": "you're no longer guessing. You're reading the market.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 747.52,
+      "end": 751.2,
+      "text": "You're seeing the proof behind every move. Because volume is not just&nbsp;&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 751.2,
+      "end": 755.76,
+      "text": "another indicator on your chart. Volume is the truth serum of the market.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 755.76,
+      "end": 759.12,
+      "text": "Price can be pushed around. Price can be manipulated.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 759.12,
+      "end": 764.24,
+      "text": "But volume shows you where real money&nbsp; — real commitment — is stepping in.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 764.24,
+      "end": 769.6,
+      "text": "If this video helped you finally see what's&nbsp; behind the candles, let me know in the comments.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 769.6,
+      "end": 773.52,
+      "text": "Which pattern are you going to look for first? Stopping Volume?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 773.52,
+      "end": 776.8,
+      "text": "Buying Climax? Or Volume Divergence?&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 776.8,
+      "end": 778.96,
+      "text": "Drop a comment. I read every single one.&nbsp;"
+    },
+    {
+      "type": "speech",
+      "start": 778.96,
+      "end": 782.96,
+      "text": "I'll see you in the next video. Stay disciplined."
+    },
+    {
+      "type": "visual",
+      "start": 780.0,
+      "end": 780.0,
+      "frame_id": 14,
+      "file": "frames/frame_0014.jpg",
+      "ocr": "Which Pattern Will You Look For First?\nStopping Volume\nBuying Climax\nVolume Divergence\nDROP A COMMENT\n(I read every one)\nSUBSCRIBE for more",
+      "description": "A hand-drawn style illustration on a light background asks a question with three answer options presented as buttons. Below the options are two calls to action: a blue speech bubble for comments and a red rectangle for subscribing. A stick figure character stands to the right, waving and pointing at the subscribe button.",
+      "has_text": true
+    }
+  ],
+  "rendered": "[VISUAL @ 0:00 — A hand-drawn illustration shows a stick figure looking thoughtfully at a candlestick price chart. A large, orange question mark is superimposed over the center of the chart, representing confusion or the challenge of interpretation. The style is simple and sketch-like on a textured white background. on screen: \"What Do You Actually See?\nWhen you look at a price chart...\"] Hello everyone! Let me ask you a question.&nbsp; When you look at a price chart,&nbsp; what do you actually see?&nbsp; Most traders see candles going up and down.&nbsp; They see patterns. They see lines.&nbsp; But they're missing the most important&nbsp; piece of information on the entire chart.&nbsp; Volume. Price is just the advertisement.&nbsp; Volume is the actual transaction. It's like judging a restaurant&nbsp;&nbsp; only by its sign outside, without ever&nbsp; checking if there are any customers inside.&nbsp; In this video, I'm going to show&nbsp; you how to read volume correctly.&nbsp; Not just what volume is. But what it MEANS.&nbsp; Why it matters. And how to use it to see&nbsp;&nbsp; what's really happening behind every move. After this video, every candle on your&nbsp;&nbsp; chart will tell you a story. And volume will be the proof.&nbsp; Not financial advice. Just education.&nbsp; Let's get into it. Let's start with the basics.&nbsp; Every chart speaks two languages at the same time. Language number one: Price.&nbsp; [VISUAL @ 1:00 — A hand-drawn illustration features a stick figure on the left pointing upward. To its right, a candlestick chart shows a distinct upward trend, overlaid with a large green arrow pointing up and to the right. In the bottom right corner is a small icon of a newspaper, and the top left corner features the number 1 inside a circle. on screen: \"1\nPRICE\nLanguage #1: PRICE\nThe WHAT\nWHAT Happened?\nUp? Down? Sideways?\nNEWS\"] Price tells you WHAT happened. Did the market go up?&nbsp; Down? Sideways?&nbsp; That's the headline. The news title.&nbsp; Language number two: Volume. Volume tells you HOW MUCH&nbsp;&nbsp; conviction was behind that move. How many traders participated?&nbsp; How much money actually moved there? That's the evidence.&nbsp; The proof. Think of it like an election.&nbsp; Price is the result — who won. But volume is the number of voters who showed up.&nbsp; If only 10 people voted, does&nbsp; the result really mean anything?&nbsp; But if 10 million people&nbsp; voted — that's a declaration.&nbsp; Same with the market. A big green candle on low volume?&nbsp; Suspicious. A big green candle on high volume?&nbsp; That's conviction. That's real.&nbsp; From now on, every time you look at a&nbsp; chart, don't just ask: \"Where did price go?\"&nbsp; Also ask: \"How much money stood behind that move?\" Now here's the single most important idea&nbsp;&nbsp; in this entire video. To read volume correctly,&nbsp;&nbsp; [VISUAL @ 2:00 — A whiteboard-style illustration introduces a concept. The title \"ONE Mental Model\" is above a large blue number \"1\" inside a circle. Below this, the phrase \"EFFORT vs RESULT\" is enclosed in a box, with radiating lines emphasizing both the number and the phrase. A simple stick figure in the bottom-left corner points up enthusiastically towards the main concept. on screen: \"ONE Mental Model\n1\nEFFORT vs RESULT\"] you only need ONE mental model. Just one.&nbsp; Effort versus Result. In the market:&nbsp; Effort is volume — how much energy,&nbsp; how much money is being used.&nbsp; Result is the candle — how&nbsp; far price actually moved.&nbsp; Think of it like pushing a car up a hill. Your foot on the gas pedal is the effort.&nbsp; How far the car moves is the result. Case number one: You press the gas.&nbsp; The car moves easily. Big effort.&nbsp; Big result. Everything matches.&nbsp; On the chart, that's a big candle&nbsp; with high volume underneath.&nbsp; Lots of buyers. Lots of conviction.&nbsp; The move is real. Like a whole stadium standing up to cheer.&nbsp; That's genuine excitement. Case number two: You slam the gas pedal.&nbsp; The engine roars. Fuel is burning.&nbsp; But the car barely moves. There's something blocking the road.&nbsp; On the chart, that's a tiny candle&nbsp; with MASSIVE volume underneath.&nbsp; This is called Absorption. What's happening?&nbsp; Buyers are pushing hard, but&nbsp; there's an invisible wall.&nbsp; [VISUAL @ 3:00 — The image presents a concept called \"Absorption\" using two diagrams. The left diagram shows a financial candlestick chart where high volume leads to small price increases, which is labeled a \"Warning Sign.\" The right diagram provides an analogy, depicting a large wave crashing against a dam labeled \"The Invisible Wall,\" also identified as a \"Warning Sign,\" to illustrate market resistance absorbing buying pressure. on screen: \"ABSORPTION\nBig Effort • Small Result\nWarning Sign\nThe Invisible Wall\nWarning Sign\"] A large seller — smart money — is sitting&nbsp; there, quietly absorbing every single buy order.&nbsp; Think of a dam. The water keeps&nbsp;&nbsp; pouring in, but the dam holds everything back. When the water runs out — when buyers exhaust&nbsp;&nbsp; themselves — there's nobody left to push price up. And very often, price drops sharply.&nbsp; Case number three: You barely touch the gas. But the car keeps rolling uphill by itself.&nbsp; There's no resistance. The road is empty.&nbsp; On the chart, that's price&nbsp; moving up on LOW volume.&nbsp; This is called No Supply. It doesn't mean buyers are super strong.&nbsp; It means sellers are ABSENT. Nobody is selling.&nbsp; So the market doesn't need much effort to move. Like walking on an empty road.&nbsp; No one is blocking your path. Now here's your cheat sheet.&nbsp; The Volume Matrix. High volume plus big candle — healthy move.&nbsp; [VISUAL @ 4:00 — A diagram titled \"Volume Matrix\" presents a cheat sheet with three illustrated panels. The \"Healthy\" panel shows large green price and volume candlesticks with a checkmark. The \"Absorption\" panel displays a small red price candle over a large orange volume bar with a warning icon. The \"No Supply\" panel features an upward-trending blue line graph over a small blue volume bar, accompanied by an information icon and a pointing stick figure. on screen: \"VOLUME MATRIX\nYour Cheat Sheet\nHEALTHY\nBig + Big = Real\nABSORPTION\nBig + Small = Warning\nNO SUPPLY\nMove + Low = Absent\"] High volume plus small candle — absorption. Warning sign.&nbsp; Low volume plus price still&nbsp; moving — no supply or no demand.&nbsp; The other side is absent. Memorize these three combinations.&nbsp; They're the foundation of&nbsp; everything that comes next.&nbsp; Now let's apply Effort vs Result&nbsp; to specific candle patterns.&nbsp; This is Volume Spread Analysis — VSA. Three patterns every trader should recognize.&nbsp; Pattern one: Stopping Volume. Imagine price is crashing.&nbsp; Red candle after red candle. Everyone is panicking and selling.&nbsp; Then you see this: a tall red candle,&nbsp; the volume bar underneath is HUGE — the&nbsp;&nbsp; biggest in weeks. But here's the thing.&nbsp; The candle doesn't close at the very bottom. It has a long wick below, and the close is&nbsp;&nbsp; near the middle. What happened?&nbsp; Someone with deep pockets bought EVERYTHING&nbsp; the panicking sellers were throwing away.&nbsp; They didn't stop the crash with words. They stopped it with money.&nbsp; [VISUAL @ 5:00 — A cartoon diagram illustrates a financial market concept. A large red downward arrow, representing a price drop, is halted by a large blue money bag, symbolizing 'smart money' absorbing the selling pressure from 'panic sellers'. Panicked stick figures are shown running away from the downward arrow. Text labels indicate this is a 'Reversal Zone' and points to a 'POTENTIAL REVERSAL'. on screen: \"PANIC SELLERS\nSTOPPED\nPOTENTIAL REVERSAL\nSmart Money Absorbing\nHigh Effort • Small Result\n= Reversal Zone\n$\"] High effort. Small result.&nbsp; The price didn't go lower despite massive volume. That's absorption at the bottom.&nbsp; A potential reversal zone. Pattern two: Buying Climax.&nbsp; Now imagine the opposite. Price has been going up for weeks.&nbsp; News is great. Everyone is bullish.&nbsp; Retail traders are jumping in&nbsp; because they don't want to miss out.&nbsp; Then you see: a huge green candle. Volume is EXTREME — the&nbsp;&nbsp; highest on the entire chart. To most traders, this looks like massive strength.&nbsp; But here's the plot twist. This is NOT strong buying.&nbsp; This is strong selling DISGUISED as buying. Smart money uses that wall of buy orders from&nbsp;&nbsp; retail traders to unload their massive positions. They're selling INTO the demand, quietly,&nbsp;&nbsp; without crashing the price. Like a vendor at a night market.&nbsp; The busiest moment? That's when they're&nbsp;&nbsp; clearing out the last of their stock. The moment you FOMO in at the top?&nbsp; [VISUAL @ 6:00 — A cartoon depicts a market stall where a vendor with a cunning expression hands out boxes to an eager crowd. To the right, a character labeled \"Smart Money Exit\" walks away with a briefcase and cash. The scene illustrates a concept where a buying frenzy among the general public is actually an opportunity for insiders to sell their holdings and take profits. on screen: \"PLOT TWIST\nNOT Buying - It's Selling DISGUISED\nSmart Money Exit\"] That might be exactly when smart&nbsp; money is walking out the door.&nbsp; Pattern three: No Supply Test. After an uptrend, price pulls back a little.&nbsp; You're worried. \"Is this a correction?\"&nbsp; Then you look at volume: a small&nbsp; red candle, and volume is VERY low.&nbsp; The market is asking a question:&nbsp; \"Does anyone want to sell here?\"&nbsp; And low volume answers: \"No. Not really.\" That's a No Supply test.&nbsp; Sellers are absent. The uptrend is likely to continue.&nbsp; Like testing if the fire is hot. You put your hand near it — it's cool.&nbsp; Safe to move forward. Three patterns.&nbsp; One mental model. Effort versus Result.&nbsp; That's enough to read eighty percent of&nbsp; what volume is telling you on any chart.&nbsp; Now, before we go further, let me clear up&nbsp; the most common mistake in volume reading.&nbsp; And if you've been making&nbsp; this mistake, don't worry.&nbsp; Almost everyone does. The myth: \"Green volume bar means&nbsp;&nbsp; [VISUAL @ 7:00 — A hand-drawn style illustration debunks a common belief about market indicators. On the left, a green bar is labeled \"Green = Buying?\", and on the right, a red bar is labeled \"Red = Selling?\". A large red 'X' is drawn over both bars with the word \"WRONG\" in the center, indicating this belief is false. A confused stick figure with a question mark over its head stands below, reinforcing the theme of questioning this myth. on screen: \"THE MYTH\nGreen = Buying?\nWRONG\nRed = Selling?\"] buying. Red volume bar means selling.\" That is NOT how it works.&nbsp; Here's the truth. Every single trade requires a buyer AND a seller.&nbsp; Always. Without exception.&nbsp; If you bought 100 shares, someone&nbsp; else SOLD you those 100 shares.&nbsp; Volume counts the NUMBER of transactions. Not which \"side\" is winning.&nbsp; The color of the volume bar? It simply follows the color of the candle.&nbsp; If the candle closed higher&nbsp; than it opened — green bar.&nbsp; If it closed lower — red bar. That's it.&nbsp; It has nothing to do with who&nbsp; is buying or who is selling.&nbsp; Think of a busy fish market&nbsp; at five in the morning.&nbsp; The market is packed — high volume. But there are buyers AND sellers everywhere.&nbsp; You can't say \"today is all buying\"&nbsp; just because the market is busy.&nbsp; Busy means activity. To know who is WINNING,&nbsp;&nbsp; you look at where the candle closes. So here's the rule:&nbsp; Don't look at the COLOR of the volume bar. Look at the SIZE of the volume bar, combined&nbsp;&nbsp; with where the candle closes. Size plus close position.&nbsp; [VISUAL @ 8:00 — A hand-drawn diagram contrasts two approaches to financial chart analysis. On the left, under the heading \"Don't → Color\", two colored volume bars are crossed out with a large red X. On the right, under \"DO → Size + Close\", a large volume bar is labeled \"Size\" next to two candlestick charts, with an arrow pointing to the closing price labeled \"Close\". A stick figure gives a thumbs-up next to a box at the bottom summarizing the main point: \"SIZE + CLOSE = The Real Story\". on screen: \"THE RULE\nDon't → Color X\nDO → Size + Close ✓\nSize\n← Close\nSIZE + CLOSE = The Real Story\"] That's where the real story is. Now let's talk about one of the most powerful&nbsp;&nbsp; warning signals in volume analysis. Volume Divergence.&nbsp; When price and volume agree with&nbsp; each other, the trend is healthy.&nbsp; Price going up? Volume going up?&nbsp; Strong. Price going down?&nbsp; Volume going down? The selling is weakening.&nbsp; But when price and volume DISAGREE&nbsp; — that's your early warning system.&nbsp; Here's the most important one. Imagine price is making new highs.&nbsp; The chart looks great. Everyone is celebrating.&nbsp; But if you look at the volume&nbsp; bars, they're getting SMALLER.&nbsp; Each new high has LESS&nbsp; volume than the previous one.&nbsp; Think of a rocket. At launch, the fuel is full.&nbsp; The rocket blasts off with enormous power. But as the fuel burns, the thrust weakens.&nbsp; The rocket slows down. And eventually... it falls.&nbsp; That's what declining volume&nbsp; during an uptrend looks like.&nbsp; [VISUAL @ 9:00 — A hand-drawn infographic explains bearish divergence in trading. The left side displays a candlestick price chart making higher highs, while the corresponding volume chart below shows declining volume, indicating a warning. The right side uses a metaphor of a rocket running out of fuel to represent this weakening trend, showing three stages: a rocket ascending with a full tank, a sputtering rocket with a low tank, and a crashing rocket with an empty tank. on screen: \"DIVERGENCE = WARNING\nPrice ↑\nVolume ↓\nHigher Highs • Lower Volume\nFULL\nLOW\nEMPTY\nFuel Depleting = Crash Coming\nMove Running Out of Fuel\"] The move is running out of fuel. Fewer and fewer traders believe in the move.&nbsp; The same works in reverse. If price is falling but volume keeps&nbsp;&nbsp; dropping too — sellers are getting exhausted. Each drop has less and less participation.&nbsp; The selling is drying up. That often signals a bottom is forming.&nbsp; Volume divergence is your&nbsp; free early warning system.&nbsp; The market hasn't crashed yet. But it's getting tired.&nbsp; It's like the applause getting&nbsp; quieter after each speech.&nbsp; The audience is losing interest. The show is almost over.&nbsp; When you see price making new highs but&nbsp; volume making lower highs — pay attention.&nbsp; Something is about to change. Now let's turn everything into&nbsp;&nbsp; a simple process you can use on any&nbsp; chart, any market, starting today.&nbsp; I call it the 3-Step Volume Check. Step one: Zoom Out.&nbsp; Before you look at individual candles,&nbsp; zoom out to the daily or weekly chart.&nbsp; [VISUAL @ 10:00 — The slide is titled \"STEP 1: Zoom Out.\" It displays a candlestick chart with a corresponding volume chart below, both indicating an overall upward trend. A magnifying glass with a minus sign is positioned over the chart, and to the right, a stick figure points to an analogy comparing checking the weather to checking the climate, represented by a sun and a cloud. on screen: \"1 STEP 1: Zoom Out\nVolume Trend?\nOverall Trend?\nCheck Weather = Check Climate\nKnow the Big Picture First\"] Ask yourself: Is volume overall&nbsp; increasing or decreasing?&nbsp; Are there any unusual volume spikes recently?&nbsp; Think of it like checking the&nbsp; weather before going outside.&nbsp; You want to know the climate&nbsp; before you worry about the rain.&nbsp; Step two: Zoom In to Key Levels. Find the important support and&nbsp;&nbsp; resistance levels on your chart. Now watch what happens when price&nbsp;&nbsp; approaches those levels. Apply Effort vs Result.&nbsp; If price touches resistance and volume SPIKES&nbsp; but the candle stays small — that's absorption.&nbsp; The wall is holding. Be careful.&nbsp; If price breaks through resistance with a big&nbsp; candle AND high volume — that's a real breakout.&nbsp; Effort matches result. But if price breaks&nbsp;&nbsp; resistance on LOW volume — be suspicious. A breakout without conviction is often a trap.&nbsp; Step three: Wait for Confirmation. This is where most traders go wrong.&nbsp; They see one signal and immediately jump in. Don't do that.&nbsp; [VISUAL @ 11:00 — A hand-drawn infographic explains a stock trading concept using a candlestick chart. The chart shows a price breaking above a resistance line, followed by a small pullback which tests the old resistance line as new support. A meditating stick figure labeled \"PATIENCE\" sits next to the chart, emphasizing the importance of waiting for this confirmation before trading. on screen: \"3 STEP 3: Wait for Confirmation\nResistance (becomes Support)\nBreakout\nWait... Pullback?\nConfirmed ✓\nLow Volume = No Supply\nBreakout → Wait → Test → Confirmed\n1 Candle Patience = 10 Trades Saved\nPATIENCE\"] After a breakout, wait for the next candle. Does price pull back to the broken level?&nbsp; If it does, and that pullback happens&nbsp; on LOW volume — that's a No Supply test.&nbsp; The market tested the level and found no sellers. That's your confirmation.&nbsp; Patience for one extra candle can&nbsp; save you from ten losing trades.&nbsp; Let me show you how this looks in practice. Price is approaching resistance.&nbsp; You zoom out — volume has been steady. Price touches resistance.&nbsp; Volume spikes. But the candle is small with a long upper wick.&nbsp; High effort, small result. Absorption.&nbsp; The wall is strong. You don't buy.&nbsp; You wait. Price drops.&nbsp; You avoided a trap. Three steps.&nbsp; Zoom out. Zoom in to key levels.&nbsp; Wait for confirmation. That's your volume playbook.&nbsp; Before your next trade, run&nbsp; through this quick checklist.&nbsp; One: Is volume increasing or&nbsp; decreasing compared to recent bars?&nbsp; [VISUAL @ 12:00 — A hand-drawn illustration on a white background presents a checklist titled \"5 Questions to Ask\". The five questions are listed with numbered bullet points and checkboxes. To the right of the list stands a simple stick figure. Key terms within the list are visually emphasized with an orange circle, a yellow underline, and a blue box. on screen: \"5 Questions to Ask\n1. Volume trend? (↑ or ↓ vs recent)\n2. Effort = Result? (Absorption?)\nAbsorption if mismatch\n3. Spikes at key levels?\n4. Divergence? (New highs + lower vol)\nLower highs = warning\n5. Next candle confirms?\nNever act on 1 candle\"] Two: Does the effort match the result? Big volume should mean big candles — if not,&nbsp;&nbsp; someone is absorbing. Three: Are there any&nbsp;&nbsp; unusual volume spikes near key levels? Four: Is volume diverging from price?&nbsp; New highs on lower volume is a warning. Five: What does the next candle confirm?&nbsp; Never act on one candle alone. When you ask these five questions,&nbsp;&nbsp; you're no longer guessing. You're reading the market.&nbsp; You're seeing the proof behind every move. Because volume is not just&nbsp;&nbsp; another indicator on your chart. Volume is the truth serum of the market.&nbsp; Price can be pushed around. Price can be manipulated.&nbsp; But volume shows you where real money&nbsp; — real commitment — is stepping in.&nbsp; If this video helped you finally see what's&nbsp; behind the candles, let me know in the comments.&nbsp; Which pattern are you going to look for first? Stopping Volume?&nbsp; Buying Climax? Or Volume Divergence?&nbsp; Drop a comment. I read every single one.&nbsp; I'll see you in the next video. Stay disciplined. [VISUAL @ 13:00 — A hand-drawn style illustration on a light background asks a question with three answer options presented as buttons. Below the options are two calls to action: a blue speech bubble for comments and a red rectangle for subscribing. A stick figure character stands to the right, waving and pointing at the subscribe button. on screen: \"Which Pattern Will You Look For First?\nStopping Volume\nBuying Climax\nVolume Divergence\nDROP A COMMENT\n(I read every one)\nSUBSCRIBE for more\"]"
+}

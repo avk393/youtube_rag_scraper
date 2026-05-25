@@ -1,0 +1,166 @@
+{
+  "video_id": "rDd5zNQ4d-Y",
+  "fps": 30.0,
+  "frame_count": 23536,
+  "duration": 785.0,
+  "scene_threshold": 27.0,
+  "sample_interval": 60.0,
+  "hash_threshold": 5,
+  "color_threshold": 16.0,
+  "keyframes": [
+    {
+      "id": 1,
+      "file": "frames/frame_0001.jpg",
+      "timestamp": 0.0,
+      "occurrences": [
+        0.0
+      ],
+      "phash": "b668999fc2879391",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 2,
+      "file": "frames/frame_0002.jpg",
+      "timestamp": 60.0,
+      "occurrences": [
+        60.0
+      ],
+      "phash": "a731db8e8c7898cc",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 3,
+      "file": "frames/frame_0003.jpg",
+      "timestamp": 120.0,
+      "occurrences": [
+        120.0
+      ],
+      "phash": "b4619e1ce99ec364",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 4,
+      "file": "frames/frame_0004.jpg",
+      "timestamp": 180.0,
+      "occurrences": [
+        180.0
+      ],
+      "phash": "ee93913ed2e521c1",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 5,
+      "file": "frames/frame_0005.jpg",
+      "timestamp": 240.0,
+      "occurrences": [
+        240.0
+      ],
+      "phash": "e825d35a8dca97c2",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 6,
+      "file": "frames/frame_0006.jpg",
+      "timestamp": 300.0,
+      "occurrences": [
+        300.0
+      ],
+      "phash": "e699996cc9669835",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 7,
+      "file": "frames/frame_0007.jpg",
+      "timestamp": 360.0,
+      "occurrences": [
+        360.0
+      ],
+      "phash": "bec1c93ed04d916a",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 8,
+      "file": "frames/frame_0008.jpg",
+      "timestamp": 420.0,
+      "occurrences": [
+        420.0
+      ],
+      "phash": "bd1c966963e2e0c6",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 9,
+      "file": "frames/frame_0009.jpg",
+      "timestamp": 480.0,
+      "occurrences": [
+        480.0
+      ],
+      "phash": "ec83b34c8d68cd3c",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 10,
+      "file": "frames/frame_0010.jpg",
+      "timestamp": 540.0,
+      "occurrences": [
+        540.0
+      ],
+      "phash": "bb37879bc0c8c0cd",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 11,
+      "file": "frames/frame_0011.jpg",
+      "timestamp": 600.0,
+      "occurrences": [
+        600.0
+      ],
+      "phash": "bb47c63dc4e0f2c0",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 12,
+      "file": "frames/frame_0012.jpg",
+      "timestamp": 660.0,
+      "occurrences": [
+        660.0
+      ],
+      "phash": "bb8785399b70c2e8",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 13,
+      "file": "frames/frame_0013.jpg",
+      "timestamp": 720.0,
+      "occurrences": [
+        720.0
+      ],
+      "phash": "bee5c112c23ecd1a",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 14,
+      "file": "frames/frame_0014.jpg",
+      "timestamp": 780.0,
+      "occurrences": [
+        780.0
+      ],
+      "phash": "e09ece6191c39b35",
+      "width": 1280,
+      "height": 720
+    }
+  ]
+}

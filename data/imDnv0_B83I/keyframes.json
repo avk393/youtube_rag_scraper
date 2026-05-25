@@ -1,0 +1,381 @@
+{
+  "video_id": "imDnv0_B83I",
+  "fps": 60.0,
+  "frame_count": 33882,
+  "duration": 565.0,
+  "scene_threshold": 27.0,
+  "sample_interval": 60.0,
+  "hash_threshold": 5,
+  "color_threshold": 16.0,
+  "keyframes": [
+    {
+      "id": 1,
+      "file": "frames/frame_0001.jpg",
+      "timestamp": 0.0,
+      "occurrences": [
+        0.0
+      ],
+      "phash": "0000000000000000",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 2,
+      "file": "frames/frame_0002.jpg",
+      "timestamp": 0.25,
+      "occurrences": [
+        0.25
+      ],
+      "phash": "d66a25e86ab12a9d",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 3,
+      "file": "frames/frame_0003.jpg",
+      "timestamp": 41.33,
+      "occurrences": [
+        41.33
+      ],
+      "phash": "d2e929e92d982d9a",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 4,
+      "file": "frames/frame_0004.jpg",
+      "timestamp": 60.0,
+      "occurrences": [
+        60.0
+      ],
+      "phash": "c0db3b6ec4b50c2e",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 5,
+      "file": "frames/frame_0005.jpg",
+      "timestamp": 81.27,
+      "occurrences": [
+        81.27
+      ],
+      "phash": "d2e82d896d291b9b",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 6,
+      "file": "frames/frame_0006.jpg",
+      "timestamp": 102.8,
+      "occurrences": [
+        102.8
+      ],
+      "phash": "aae0e0e0e8f0f9d9",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 7,
+      "file": "frames/frame_0007.jpg",
+      "timestamp": 103.37,
+      "occurrences": [
+        103.37
+      ],
+      "phash": "d2e828ad2daf29d2",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 8,
+      "file": "frames/frame_0008.jpg",
+      "timestamp": 117.42,
+      "occurrences": [
+        117.42
+      ],
+      "phash": "c0e36fa96d273e80",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 9,
+      "file": "frames/frame_0009.jpg",
+      "timestamp": 120.0,
+      "occurrences": [
+        120.0
+      ],
+      "phash": "d0ff2b816d271a8a",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 10,
+      "file": "frames/frame_0010.jpg",
+      "timestamp": 126.72,
+      "occurrences": [
+        126.72,
+        138.45
+      ],
+      "phash": "fae7e7c383818381",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 11,
+      "file": "frames/frame_0011.jpg",
+      "timestamp": 180.0,
+      "occurrences": [
+        180.0,
+        240.0
+      ],
+      "phash": "c0b47de97a962b81",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 12,
+      "file": "frames/frame_0012.jpg",
+      "timestamp": 270.6,
+      "occurrences": [
+        270.6
+      ],
+      "phash": "aa55555555515f2a",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 13,
+      "file": "frames/frame_0013.jpg",
+      "timestamp": 300.0,
+      "occurrences": [
+        300.0
+      ],
+      "phash": "aaea5555747b070a",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 14,
+      "file": "frames/frame_0014.jpg",
+      "timestamp": 319.73,
+      "occurrences": [
+        319.73
+      ],
+      "phash": "c0b67de96a822f89",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 15,
+      "file": "frames/frame_0015.jpg",
+      "timestamp": 335.92,
+      "occurrences": [
+        335.92
+      ],
+      "phash": "80da6a6a3f81ada7",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 16,
+      "file": "frames/frame_0016.jpg",
+      "timestamp": 350.35,
+      "occurrences": [
+        350.35
+      ],
+      "phash": "a0fefdcbb3808581",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 17,
+      "file": "frames/frame_0017.jpg",
+      "timestamp": 360.0,
+      "occurrences": [
+        360.0
+      ],
+      "phash": "c0fcfd6a7e202b81",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 18,
+      "file": "frames/frame_0018.jpg",
+      "timestamp": 364.95,
+      "occurrences": [
+        364.95
+      ],
+      "phash": "a0fefcd6a5c09381",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 19,
+      "file": "frames/frame_0019.jpg",
+      "timestamp": 381.7,
+      "occurrences": [
+        381.7,
+        420.0
+      ],
+      "phash": "e1d4debe1e802a6a",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 20,
+      "file": "frames/frame_0020.jpg",
+      "timestamp": 422.57,
+      "occurrences": [
+        422.57,
+        433.25,
+        499.63
+      ],
+      "phash": "feffffc181808081",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 21,
+      "file": "frames/frame_0021.jpg",
+      "timestamp": 439.22,
+      "occurrences": [
+        439.22
+      ],
+      "phash": "80eb7ecb258b2b91",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 22,
+      "file": "frames/frame_0022.jpg",
+      "timestamp": 442.75,
+      "occurrences": [
+        442.75
+      ],
+      "phash": "a1eafac772981525",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 23,
+      "file": "frames/frame_0023.jpg",
+      "timestamp": 444.27,
+      "occurrences": [
+        444.27
+      ],
+      "phash": "c0effc8e8e912e82",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 24,
+      "file": "frames/frame_0024.jpg",
+      "timestamp": 478.92,
+      "occurrences": [
+        478.92,
+        480.0
+      ],
+      "phash": "8cbff7e1b38201c1",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 25,
+      "file": "frames/frame_0025.jpg",
+      "timestamp": 492.95,
+      "occurrences": [
+        492.95
+      ],
+      "phash": "c6bdf1e1620b6326",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 26,
+      "file": "frames/frame_0026.jpg",
+      "timestamp": 500.03,
+      "occurrences": [
+        500.03
+      ],
+      "phash": "cef9f391310a312e",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 27,
+      "file": "frames/frame_0027.jpg",
+      "timestamp": 501.02,
+      "occurrences": [
+        501.02
+      ],
+      "phash": "81f8ffc7e2202f21",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 28,
+      "file": "frames/frame_0028.jpg",
+      "timestamp": 507.18,
+      "occurrences": [
+        507.18
+      ],
+      "phash": "a9feffd8c6838080",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 29,
+      "file": "frames/frame_0029.jpg",
+      "timestamp": 522.28,
+      "occurrences": [
+        522.28
+      ],
+      "phash": "a5fefae3c2818283",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 30,
+      "file": "frames/frame_0030.jpg",
+      "timestamp": 529.85,
+      "occurrences": [
+        529.85
+      ],
+      "phash": "c0eefb991c839784",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 31,
+      "file": "frames/frame_0031.jpg",
+      "timestamp": 539.58,
+      "occurrences": [
+        539.58
+      ],
+      "phash": "c07efdb01ec92613",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 32,
+      "file": "frames/frame_0032.jpg",
+      "timestamp": 540.0,
+      "occurrences": [
+        540.0
+      ],
+      "phash": "c1ee7db898812793",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": 33,
+      "file": "frames/frame_0033.jpg",
+      "timestamp": 545.05,
+      "occurrences": [
+        545.05
+      ],
+      "phash": "ebe0f4e083878787",
+      "width": 1280,
+      "height": 720
+    }
+  ]
+}

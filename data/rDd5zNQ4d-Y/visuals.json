@@ -1,0 +1,105 @@
+{
+  "video_id": "rDd5zNQ4d-Y",
+  "backend": "gemini",
+  "model": "gemini-2.5-pro",
+  "frames": [
+    {
+      "id": 1,
+      "timestamp": 0.0,
+      "ocr": "What Do You Actually See?\nWhen you look at a price chart...",
+      "description": "A hand-drawn illustration shows a stick figure looking thoughtfully at a candlestick price chart. A large, orange question mark is superimposed over the center of the chart, representing confusion or the challenge of interpretation. The style is simple and sketch-like on a textured white background.",
+      "has_text": true
+    },
+    {
+      "id": 2,
+      "timestamp": 60.0,
+      "ocr": "1\nPRICE\nLanguage #1: PRICE\nThe WHAT\nWHAT Happened?\nUp? Down? Sideways?\nNEWS",
+      "description": "A hand-drawn illustration features a stick figure on the left pointing upward. To its right, a candlestick chart shows a distinct upward trend, overlaid with a large green arrow pointing up and to the right. In the bottom right corner is a small icon of a newspaper, and the top left corner features the number 1 inside a circle.",
+      "has_text": true
+    },
+    {
+      "id": 3,
+      "timestamp": 120.0,
+      "ocr": "ONE Mental Model\n1\nEFFORT vs RESULT",
+      "description": "A whiteboard-style illustration introduces a concept. The title \"ONE Mental Model\" is above a large blue number \"1\" inside a circle. Below this, the phrase \"EFFORT vs RESULT\" is enclosed in a box, with radiating lines emphasizing both the number and the phrase. A simple stick figure in the bottom-left corner points up enthusiastically towards the main concept.",
+      "has_text": true
+    },
+    {
+      "id": 4,
+      "timestamp": 180.0,
+      "ocr": "ABSORPTION\nBig Effort • Small Result\nWarning Sign\nThe Invisible Wall\nWarning Sign",
+      "description": "The image presents a concept called \"Absorption\" using two diagrams. The left diagram shows a financial candlestick chart where high volume leads to small price increases, which is labeled a \"Warning Sign.\" The right diagram provides an analogy, depicting a large wave crashing against a dam labeled \"The Invisible Wall,\" also identified as a \"Warning Sign,\" to illustrate market resistance absorbing buying pressure.",
+      "has_text": true
+    },
+    {
+      "id": 5,
+      "timestamp": 240.0,
+      "ocr": "VOLUME MATRIX\nYour Cheat Sheet\nHEALTHY\nBig + Big = Real\nABSORPTION\nBig + Small = Warning\nNO SUPPLY\nMove + Low = Absent",
+      "description": "A diagram titled \"Volume Matrix\" presents a cheat sheet with three illustrated panels. The \"Healthy\" panel shows large green price and volume candlesticks with a checkmark. The \"Absorption\" panel displays a small red price candle over a large orange volume bar with a warning icon. The \"No Supply\" panel features an upward-trending blue line graph over a small blue volume bar, accompanied by an information icon and a pointing stick figure.",
+      "has_text": true
+    },
+    {
+      "id": 6,
+      "timestamp": 300.0,
+      "ocr": "PANIC SELLERS\nSTOPPED\nPOTENTIAL REVERSAL\nSmart Money Absorbing\nHigh Effort • Small Result\n= Reversal Zone\n$",
+      "description": "A cartoon diagram illustrates a financial market concept. A large red downward arrow, representing a price drop, is halted by a large blue money bag, symbolizing 'smart money' absorbing the selling pressure from 'panic sellers'. Panicked stick figures are shown running away from the downward arrow. Text labels indicate this is a 'Reversal Zone' and points to a 'POTENTIAL REVERSAL'.",
+      "has_text": true
+    },
+    {
+      "id": 7,
+      "timestamp": 360.0,
+      "ocr": "PLOT TWIST\nNOT Buying - It's Selling DISGUISED\nSmart Money Exit",
+      "description": "A cartoon depicts a market stall where a vendor with a cunning expression hands out boxes to an eager crowd. To the right, a character labeled \"Smart Money Exit\" walks away with a briefcase and cash. The scene illustrates a concept where a buying frenzy among the general public is actually an opportunity for insiders to sell their holdings and take profits.",
+      "has_text": true
+    },
+    {
+      "id": 8,
+      "timestamp": 420.0,
+      "ocr": "THE MYTH\nGreen = Buying?\nWRONG\nRed = Selling?",
+      "description": "A hand-drawn style illustration debunks a common belief about market indicators. On the left, a green bar is labeled \"Green = Buying?\", and on the right, a red bar is labeled \"Red = Selling?\". A large red 'X' is drawn over both bars with the word \"WRONG\" in the center, indicating this belief is false. A confused stick figure with a question mark over its head stands below, reinforcing the theme of questioning this myth.",
+      "has_text": true
+    },
+    {
+      "id": 9,
+      "timestamp": 480.0,
+      "ocr": "THE RULE\nDon't → Color X\nDO → Size + Close ✓\nSize\n← Close\nSIZE + CLOSE = The Real Story",
+      "description": "A hand-drawn diagram contrasts two approaches to financial chart analysis. On the left, under the heading \"Don't → Color\", two colored volume bars are crossed out with a large red X. On the right, under \"DO → Size + Close\", a large volume bar is labeled \"Size\" next to two candlestick charts, with an arrow pointing to the closing price labeled \"Close\". A stick figure gives a thumbs-up next to a box at the bottom summarizing the main point: \"SIZE + CLOSE = The Real Story\".",
+      "has_text": true
+    },
+    {
+      "id": 10,
+      "timestamp": 540.0,
+      "ocr": "DIVERGENCE = WARNING\nPrice ↑\nVolume ↓\nHigher Highs • Lower Volume\nFULL\nLOW\nEMPTY\nFuel Depleting = Crash Coming\nMove Running Out of Fuel",
+      "description": "A hand-drawn infographic explains bearish divergence in trading. The left side displays a candlestick price chart making higher highs, while the corresponding volume chart below shows declining volume, indicating a warning. The right side uses a metaphor of a rocket running out of fuel to represent this weakening trend, showing three stages: a rocket ascending with a full tank, a sputtering rocket with a low tank, and a crashing rocket with an empty tank.",
+      "has_text": true
+    },
+    {
+      "id": 11,
+      "timestamp": 600.0,
+      "ocr": "1 STEP 1: Zoom Out\nVolume Trend?\nOverall Trend?\nCheck Weather = Check Climate\nKnow the Big Picture First",
+      "description": "The slide is titled \"STEP 1: Zoom Out.\" It displays a candlestick chart with a corresponding volume chart below, both indicating an overall upward trend. A magnifying glass with a minus sign is positioned over the chart, and to the right, a stick figure points to an analogy comparing checking the weather to checking the climate, represented by a sun and a cloud.",
+      "has_text": true
+    },
+    {
+      "id": 12,
+      "timestamp": 660.0,
+      "ocr": "3 STEP 3: Wait for Confirmation\nResistance (becomes Support)\nBreakout\nWait... Pullback?\nConfirmed ✓\nLow Volume = No Supply\nBreakout → Wait → Test → Confirmed\n1 Candle Patience = 10 Trades Saved\nPATIENCE",
+      "description": "A hand-drawn infographic explains a stock trading concept using a candlestick chart. The chart shows a price breaking above a resistance line, followed by a small pullback which tests the old resistance line as new support. A meditating stick figure labeled \"PATIENCE\" sits next to the chart, emphasizing the importance of waiting for this confirmation before trading.",
+      "has_text": true
+    },
+    {
+      "id": 13,
+      "timestamp": 720.0,
+      "ocr": "5 Questions to Ask\n1. Volume trend? (↑ or ↓ vs recent)\n2. Effort = Result? (Absorption?)\nAbsorption if mismatch\n3. Spikes at key levels?\n4. Divergence? (New highs + lower vol)\nLower highs = warning\n5. Next candle confirms?\nNever act on 1 candle",
+      "description": "A hand-drawn illustration on a white background presents a checklist titled \"5 Questions to Ask\". The five questions are listed with numbered bullet points and checkboxes. To the right of the list stands a simple stick figure. Key terms within the list are visually emphasized with an orange circle, a yellow underline, and a blue box.",
+      "has_text": true
+    },
+    {
+      "id": 14,
+      "timestamp": 780.0,
+      "ocr": "Which Pattern Will You Look For First?\nStopping Volume\nBuying Climax\nVolume Divergence\nDROP A COMMENT\n(I read every one)\nSUBSCRIBE for more",
+      "description": "A hand-drawn style illustration on a light background asks a question with three answer options presented as buttons. Below the options are two calls to action: a blue speech bubble for comments and a red rectangle for subscribing. A stick figure character stands to the right, waving and pointing at the subscribe button.",
+      "has_text": true
+    }
+  ]
+}
