@@ -49,6 +49,11 @@ except ImportError:
 
 log = logging.getLogger("ingest")
 
+# Tell yt-dlp to use node (already on PATH) for JS extraction; avoids the
+# "no supported JavaScript runtime" warning that causes some formats to be missing.
+_NODE_PATH = shutil.which("node")
+_BASE_YDL_OPTS: dict = {"js_runtimes": {"nodejs": {"path": _NODE_PATH}}} if _NODE_PATH else {}
+
 
 # --------------------------------------------------------------------------
 # Metadata
@@ -107,7 +112,7 @@ def expand_to_videos(url: str, insecure: bool = False) -> list[str]:
 
     A plain video URL is returned unchanged.
     """
-    opts = {"quiet": True, "skip_download": True, "extract_flat": "in_playlist"}
+    opts = {**_BASE_YDL_OPTS, "quiet": True, "skip_download": True, "extract_flat": "in_playlist"}
     if insecure:
         opts["nocheckcertificate"] = True
     try:
@@ -145,7 +150,7 @@ def download_video(
     Returns the slim metadata dict, or None if the video was skipped / failed.
     """
     # We need the video id before downloading so the skip-existing check works.
-    probe_opts = {"quiet": True, "skip_download": True, "noplaylist": True}
+    probe_opts = {**_BASE_YDL_OPTS, "quiet": True, "skip_download": True, "noplaylist": True}
     if cookies:
         probe_opts["cookiefile"] = str(cookies)
     if insecure:
@@ -167,14 +172,23 @@ def download_video(
 
     video_dir.mkdir(parents=True, exist_ok=True)
 
+    has_ffmpeg = bool(shutil.which("ffmpeg"))
+    if has_ffmpeg:
+        fmt = (
+            f"bestvideo[height<={resolution}][ext=mp4]+bestaudio[ext=m4a]/"
+            f"bestvideo[height<={resolution}]+bestaudio/"
+            f"best[height<={resolution}]/best"
+        )
+    else:
+        # Without ffmpeg we can only use pre-muxed formats.
+        fmt = f"best[height<={resolution}][ext=mp4]/best[height<={resolution}]/best"
+
     ydl_opts = {
+        **_BASE_YDL_OPTS,
         "quiet": True,
         "no_warnings": True,
         "noplaylist": True,
-        "format": (
-            f"bestvideo[height<={resolution}]+bestaudio/"
-            f"best[height<={resolution}]/best"
-        ),
+        "format": fmt,
         "merge_output_format": "mp4",
         "outtmpl": str(video_dir / "video.%(ext)s"),
         "writesubtitles": True,

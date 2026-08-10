@@ -1,2 +1,11 @@
 .env
-venv/*
+.venv/*
+data/*
+lancedb/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Keep the durable framework knowledge tracked:
+!extractions/
+!playbooks/
